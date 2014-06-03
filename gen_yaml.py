@@ -37,7 +37,7 @@ for day in range(day_len):
     morning_after_flag = day_map['is_vote'][day * 2: day * 2 + 2]
     # 投票日期
     vote_date = day_map['start_date']
-    # 虚幻上下午
+    # 循环上下午
     for m_a in range(2):
         if '1' == morning_after_flag[m_a]:
             vote_date_str = vote_date.strftime('%m-%d').split('-')
