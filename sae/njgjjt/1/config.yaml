@@ -1,93 +1,87 @@
 name: njgjjt
 version: 1
 cron:
-    - description: 06-07 13:37
+    - description: 06-14 13:37
       url: /
-      schedule: 37 13 7 6 *
-    - description: 06-07 14:23
+      schedule: 37 13 14 6 *
+    - description: 06-14 14:16
       url: //
-      schedule: 23 14 7 6 *
-    - description: 06-07 15:14
+      schedule: 16 14 14 6 *
+    - description: 06-14 14:55
       url: ///
-      schedule: 14 15 7 6 *
-    - description: 06-07 16:12
+      schedule: 55 14 14 6 *
+    - description: 06-14 15:31
       url: ////
-      schedule: 12 16 7 6 *
-    - description: 06-07 17:06
+      schedule: 31 15 14 6 *
+    - description: 06-15 13:32
       url: /////
-      schedule: 6 17 7 6 *
-    - description: 06-08 13:34
+      schedule: 32 13 15 6 *
+    - description: 06-15 14:17
       url: //////
-      schedule: 34 13 8 6 *
-    - description: 06-08 14:20
+      schedule: 17 14 15 6 *
+    - description: 06-15 14:54
       url: ///////
-      schedule: 20 14 8 6 *
-    - description: 06-08 15:04
+      schedule: 54 14 15 6 *
+    - description: 06-15 15:27
       url: ////////
-      schedule: 4 15 8 6 *
-    - description: 06-08 15:49
+      schedule: 27 15 15 6 *
+    - description: 06-16 13:39
       url: /////////
-      schedule: 49 15 8 6 *
-    - description: 06-08 16:29
+      schedule: 39 13 16 6 *
+    - description: 06-16 14:16
       url: //////////
-      schedule: 29 16 8 6 *
-    - description: 06-09 13:40
+      schedule: 16 14 16 6 *
+    - description: 06-16 15:05
       url: ///////////
-      schedule: 40 13 9 6 *
-    - description: 06-09 14:17
+      schedule: 5 15 16 6 *
+    - description: 06-16 15:37
       url: ////////////
-      schedule: 17 14 9 6 *
-    - description: 06-09 15:08
+      schedule: 37 15 16 6 *
+    - description: 06-17 13:31
       url: /////////////
-      schedule: 8 15 9 6 *
-    - description: 06-09 15:44
+      schedule: 31 13 17 6 *
+    - description: 06-17 14:12
       url: //////////////
-      schedule: 44 15 9 6 *
-    - description: 06-09 16:34
+      schedule: 12 14 17 6 *
+    - description: 06-17 15:04
       url: ///////////////
-      schedule: 34 16 9 6 *
-    - description: 06-10 13:39
+      schedule: 4 15 17 6 *
+    - description: 06-17 15:52
       url: ////////////////
-      schedule: 39 13 10 6 *
-    - description: 06-10 14:15
+      schedule: 52 15 17 6 *
+    - description: 06-18 13:40
       url: /////////////////
-      schedule: 15 14 10 6 *
-    - description: 06-10 15:01
+      schedule: 40 13 18 6 *
+    - description: 06-18 14:12
       url: //////////////////
-      schedule: 1 15 10 6 *
-    - description: 06-10 15:50
+      schedule: 12 14 18 6 *
+    - description: 06-18 14:59
       url: ///////////////////
-      schedule: 50 15 10 6 *
-    - description: 06-10 16:50
+      schedule: 59 14 18 6 *
+    - description: 06-18 15:54
       url: ////////////////////
-      schedule: 50 16 10 6 *
-    - description: 06-11 13:33
+      schedule: 54 15 18 6 *
+    - description: 06-20 06:05
       url: /////////////////////
-      schedule: 33 13 11 6 *
-    - description: 06-11 14:04
+      schedule: 5 6 20 6 *
+    - description: 06-20 06:50
       url: //////////////////////
-      schedule: 4 14 11 6 *
-    - description: 06-11 14:51
+      schedule: 50 6 20 6 *
+    - description: 06-20 07:29
       url: ///////////////////////
-      schedule: 51 14 11 6 *
-    - description: 06-11 15:35
+      schedule: 29 7 20 6 *
+    - description: 06-20 08:29
       url: ////////////////////////
-      schedule: 35 15 11 6 *
-    - description: 06-11 16:29
+      schedule: 29 8 20 6 *
+    - description: 06-20 13:34
       url: /////////////////////////
-      schedule: 29 16 11 6 *
-    - description: 06-12 13:31
+      schedule: 34 13 20 6 *
+    - description: 06-20 14:13
       url: //////////////////////////
-      schedule: 31 13 12 6 *
-    - description: 06-12 14:08
+      schedule: 13 14 20 6 *
+    - description: 06-20 14:51
       url: ///////////////////////////
-      schedule: 8 14 12 6 *
-    - description: 06-12 15:04
+      schedule: 51 14 20 6 *
+    - description: 06-20 15:28
       url: ////////////////////////////
-      schedule: 4 15 12 6 *
-    - description: 06-12 16:02
-      url: /////////////////////////////
-      schedule: 2 16 12 6 *
-    - description: 06-12 16:41
-      url: //////////////////////////////
-      schedule: 41 16 12 6 *
+      schedule: 28 15 20 6 *
