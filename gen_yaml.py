@@ -7,7 +7,7 @@ day_map = {
     # 开始日期
     'start_date': datetime.datetime.strptime('8-9', '%m-%d'),
     # 0表示不刷1表示刷，从开始日期开始上下午循环
-    'is_vote': '101010101011',
+    'is_vote': '010101010111',
 }
 
 # 上午下午上班开始时间
