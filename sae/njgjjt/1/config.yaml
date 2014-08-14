@@ -1,87 +1,75 @@
 name: njgjjt
 version: 1
 cron:
-    - description: 08-09 13:37
+    - description: 08-15 06:05
       url: /
-      schedule: 37 13 9 8 *
-    - description: 08-09 14:28
+      schedule: 5 6 15 8 *
+    - description: 08-15 06:54
       url: //
-      schedule: 28 14 9 8 *
-    - description: 08-09 15:04
+      schedule: 54 6 15 8 *
+    - description: 08-16 06:02
       url: ///
-      schedule: 4 15 9 8 *
-    - description: 08-09 15:59
+      schedule: 2 6 16 8 *
+    - description: 08-16 06:48
       url: ////
-      schedule: 59 15 9 8 *
-    - description: 08-10 13:39
+      schedule: 48 6 16 8 *
+    - description: 08-17 06:03
       url: /////
-      schedule: 39 13 10 8 *
-    - description: 08-10 14:23
+      schedule: 3 6 17 8 *
+    - description: 08-17 06:44
       url: //////
-      schedule: 23 14 10 8 *
-    - description: 08-10 15:13
+      schedule: 44 6 17 8 *
+    - description: 08-18 06:09
       url: ///////
-      schedule: 13 15 10 8 *
-    - description: 08-10 15:46
+      schedule: 9 6 18 8 *
+    - description: 08-18 07:01
       url: ////////
-      schedule: 46 15 10 8 *
-    - description: 08-11 13:31
+      schedule: 1 7 18 8 *
+    - description: 08-19 06:10
       url: /////////
-      schedule: 31 13 11 8 *
-    - description: 08-11 14:02
+      schedule: 10 6 19 8 *
+    - description: 08-19 06:42
       url: //////////
-      schedule: 2 14 11 8 *
-    - description: 08-11 14:36
+      schedule: 42 6 19 8 *
+    - description: 08-20 06:05
       url: ///////////
-      schedule: 36 14 11 8 *
-    - description: 08-11 15:17
+      schedule: 5 6 20 8 *
+    - description: 08-20 07:01
       url: ////////////
-      schedule: 17 15 11 8 *
-    - description: 08-12 13:32
+      schedule: 1 7 20 8 *
+    - description: 08-21 06:10
       url: /////////////
-      schedule: 32 13 12 8 *
-    - description: 08-12 14:10
+      schedule: 10 6 21 8 *
+    - description: 08-21 06:47
       url: //////////////
-      schedule: 10 14 12 8 *
-    - description: 08-12 15:10
+      schedule: 47 6 21 8 *
+    - description: 08-23 13:32
       url: ///////////////
-      schedule: 10 15 12 8 *
-    - description: 08-12 15:46
+      schedule: 32 13 23 8 *
+    - description: 08-23 14:32
       url: ////////////////
-      schedule: 46 15 12 8 *
-    - description: 08-13 13:32
+      schedule: 32 14 23 8 *
+    - description: 08-24 13:38
       url: /////////////////
-      schedule: 32 13 13 8 *
-    - description: 08-13 14:14
+      schedule: 38 13 24 8 *
+    - description: 08-24 14:19
       url: //////////////////
-      schedule: 14 14 13 8 *
-    - description: 08-13 15:00
+      schedule: 19 14 24 8 *
+    - description: 08-25 13:39
       url: ///////////////////
-      schedule: 0 15 13 8 *
-    - description: 08-13 15:48
+      schedule: 39 13 25 8 *
+    - description: 08-25 14:21
       url: ////////////////////
-      schedule: 48 15 13 8 *
-    - description: 08-14 06:02
+      schedule: 21 14 25 8 *
+    - description: 08-26 13:31
       url: /////////////////////
-      schedule: 2 6 14 8 *
-    - description: 08-14 06:37
+      schedule: 31 13 26 8 *
+    - description: 08-26 14:12
       url: //////////////////////
-      schedule: 37 6 14 8 *
-    - description: 08-14 07:16
+      schedule: 12 14 26 8 *
+    - description: 08-27 13:33
       url: ///////////////////////
-      schedule: 16 7 14 8 *
-    - description: 08-14 07:48
+      schedule: 33 13 27 8 *
+    - description: 08-27 14:32
       url: ////////////////////////
-      schedule: 48 7 14 8 *
-    - description: 08-14 13:32
-      url: /////////////////////////
-      schedule: 32 13 14 8 *
-    - description: 08-14 14:04
-      url: //////////////////////////
-      schedule: 4 14 14 8 *
-    - description: 08-14 14:45
-      url: ///////////////////////////
-      schedule: 45 14 14 8 *
-    - description: 08-14 15:38
-      url: ////////////////////////////
-      schedule: 38 15 14 8 *
+      schedule: 32 14 27 8 *
