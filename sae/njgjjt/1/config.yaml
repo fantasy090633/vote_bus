@@ -1,75 +1,87 @@
 name: njgjjt
 version: 1
 cron:
-    - description: 08-15 06:05
+    - description: 08-29 06:08
       url: /
-      schedule: 5 6 15 8 *
-    - description: 08-15 06:54
+      schedule: 8 6 29 8 *
+    - description: 08-29 06:54
       url: //
-      schedule: 54 6 15 8 *
-    - description: 08-16 06:02
+      schedule: 54 6 29 8 *
+    - description: 08-29 07:39
       url: ///
-      schedule: 2 6 16 8 *
-    - description: 08-16 06:48
+      schedule: 39 7 29 8 *
+    - description: 08-29 08:31
       url: ////
-      schedule: 48 6 16 8 *
-    - description: 08-17 06:03
+      schedule: 31 8 29 8 *
+    - description: 08-30 06:03
       url: /////
-      schedule: 3 6 17 8 *
-    - description: 08-17 06:44
+      schedule: 3 6 30 8 *
+    - description: 08-30 06:45
       url: //////
-      schedule: 44 6 17 8 *
-    - description: 08-18 06:09
+      schedule: 45 6 30 8 *
+    - description: 08-30 07:32
       url: ///////
-      schedule: 9 6 18 8 *
-    - description: 08-18 07:01
+      schedule: 32 7 30 8 *
+    - description: 08-30 08:20
       url: ////////
-      schedule: 1 7 18 8 *
-    - description: 08-19 06:10
+      schedule: 20 8 30 8 *
+    - description: 08-31 06:07
       url: /////////
-      schedule: 10 6 19 8 *
-    - description: 08-19 06:42
+      schedule: 7 6 31 8 *
+    - description: 08-31 06:40
       url: //////////
-      schedule: 42 6 19 8 *
-    - description: 08-20 06:05
+      schedule: 40 6 31 8 *
+    - description: 08-31 07:33
       url: ///////////
-      schedule: 5 6 20 8 *
-    - description: 08-20 07:01
+      schedule: 33 7 31 8 *
+    - description: 08-31 08:24
       url: ////////////
-      schedule: 1 7 20 8 *
-    - description: 08-21 06:10
+      schedule: 24 8 31 8 *
+    - description: 09-01 06:03
       url: /////////////
-      schedule: 10 6 21 8 *
-    - description: 08-21 06:47
+      schedule: 3 6 1 9 *
+    - description: 09-01 07:03
       url: //////////////
-      schedule: 47 6 21 8 *
-    - description: 08-23 13:32
+      schedule: 3 7 1 9 *
+    - description: 09-01 07:47
       url: ///////////////
-      schedule: 32 13 23 8 *
-    - description: 08-23 14:32
+      schedule: 47 7 1 9 *
+    - description: 09-01 08:34
       url: ////////////////
-      schedule: 32 14 23 8 *
-    - description: 08-24 13:38
+      schedule: 34 8 1 9 *
+    - description: 09-02 06:09
       url: /////////////////
-      schedule: 38 13 24 8 *
-    - description: 08-24 14:19
+      schedule: 9 6 2 9 *
+    - description: 09-02 07:00
       url: //////////////////
-      schedule: 19 14 24 8 *
-    - description: 08-25 13:39
+      schedule: 0 7 2 9 *
+    - description: 09-02 07:33
       url: ///////////////////
-      schedule: 39 13 25 8 *
-    - description: 08-25 14:21
+      schedule: 33 7 2 9 *
+    - description: 09-02 08:20
       url: ////////////////////
-      schedule: 21 14 25 8 *
-    - description: 08-26 13:31
+      schedule: 20 8 2 9 *
+    - description: 09-03 06:01
       url: /////////////////////
-      schedule: 31 13 26 8 *
-    - description: 08-26 14:12
+      schedule: 1 6 3 9 *
+    - description: 09-03 06:39
       url: //////////////////////
-      schedule: 12 14 26 8 *
-    - description: 08-27 13:33
+      schedule: 39 6 3 9 *
+    - description: 09-03 07:15
       url: ///////////////////////
-      schedule: 33 13 27 8 *
-    - description: 08-27 14:32
+      schedule: 15 7 3 9 *
+    - description: 09-03 08:08
       url: ////////////////////////
-      schedule: 32 14 27 8 *
+      schedule: 8 8 3 9 *
+    - description: 09-04 06:03
+      url: /////////////////////////
+      schedule: 3 6 4 9 *
+    - description: 09-04 06:36
+      url: //////////////////////////
+      schedule: 36 6 4 9 *
+    - description: 09-04 07:10
+      url: ///////////////////////////
+      schedule: 10 7 4 9 *
+    - description: 09-04 07:54
+      url: ////////////////////////////
+      schedule: 54 7 4 9 *
