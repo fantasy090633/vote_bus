@@ -26,6 +26,6 @@ def app(environ, start_response):
 	page = response.read()
 	if '苏A-G2868' in page and '645W' in page:
 		return ['Auto Vote Success!']
-    	return ['Auto Vote Fail!']
+    return ['Auto Vote Fail!']
 
 application = sae.create_wsgi_app(app)
