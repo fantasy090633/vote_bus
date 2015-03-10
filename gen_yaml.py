@@ -5,9 +5,9 @@ import random
 # 配置
 day_map = {
     # 开始日期
-    'start_date': datetime.datetime.strptime('3-1', '%m-%d'),
+    'start_date': datetime.datetime.strptime('3-10', '%m-%d'),
     # 0表示不刷1表示刷，从开始日期开始上下午循环
-    'is_vote': '1010101010',
+    'is_vote': '01010010101010101010',
 }
 
 # 上午下午上班开始时间
